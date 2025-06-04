@@ -1,12 +1,6 @@
 #  Métodos Numéricos
 
 ---
-<p align="center">
-  <img src="https://www.itesa.edu.mx/_app/vista/default/img/logo.png" alt="Logo ITESA" width="200"/>
-  <img src="https://www.tijuana.tecnm.mx/wp-content/uploads/2020/11/ISC-Logo.png" alt="Logo ISC" width="200"/>
-</p>
-
-
 
 ## 🎓 Instituto Tecnológico Superior del Oriente del Estado de Hidalgo  
 **Ingeniería en Sistemas Computacionales**  
