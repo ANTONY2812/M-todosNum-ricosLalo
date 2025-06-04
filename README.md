@@ -1,6 +1,10 @@
 #  Métodos Numéricos
 
+---
 
+![ITESA](assets/logo-itesa.png) ![ISC](assets/logo-isc.png)
+## 🎓 Instituto Tecnológico Superior del Oriente del Estado de Hidalgo  
+**Ingeniería en Sistemas Computacionales**  
 ---
 
 ##  ¿Qué son los Métodos Numéricos?
