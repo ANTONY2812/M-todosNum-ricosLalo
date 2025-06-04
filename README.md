@@ -1,7 +1,7 @@
 #  Métodos Numéricos
 
 ---
-![ITESA](https://itesa.edu.mx/images/logoitesa.png)
+![ITESA](assets/logo-itesa.png) ![ISC](assets/logo-isc.png)
 
 
 ## 🎓 Instituto Tecnológico Superior del Oriente del Estado de Hidalgo  
