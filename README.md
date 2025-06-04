@@ -1,26 +1,19 @@
-# 📐  Métodos Numéricos
+#  Métodos Numéricos
 
-¡Bienvenido a este repositorio educativo de **Métodos Numéricos**!  
-Aquí encontrarás una colección completa de teoría, ejemplos prácticos en **Java** y ejercicios resueltos que te ayudarán a dominar las técnicas numéricas fundamentales utilizadas en ingeniería, matemáticas aplicadas y ciencias computacionales.
 
 ---
 
-## 🧠 ¿Qué son los Métodos Numéricos?
+##  ¿Qué son los Métodos Numéricos?
 
-Los métodos numéricos son herramientas computacionales que nos permiten **aproximar soluciones** a problemas matemáticos que no pueden resolverse de manera exacta o simbólica. Estos métodos son fundamentales en aplicaciones del mundo real como:
-
-- 🌪️ Simulación del clima
-- 🏗️ Diseño estructural
-- 📊 Análisis de datos
-- 🧪 Modelos físicos, químicos y biológicos
+Los métodos numéricos son técnicas matemáticas que permiten encontrar soluciones aproximadas a problemas que no se pueden resolver de forma exacta o analítica. Se utilizan ampliamente en ingeniería, física, informática, economía, y muchas otras áreas donde los problemas reales son complejos.
 
 ---
 
-## 📚 Contenido del Repositorio
+##  Contenido del Repositorio
 
 Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y enlaces directos a los archivos `.md`. Los temas cubiertos incluyen:
 
-### 🧾 Tabla de Contenidos
+###  Tabla de Contenido de mi git
 
 | Nº | Tema | Enlace |
 |----|------|--------|
@@ -33,23 +26,9 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 
 ---
 
-## ⚙️ Tecnologías Utilizadas
+## + Tecnologías Utilizadas
 
-- **Lenguaje de programación**: Java ☕  
-- **Formato de documentación**: Markdown `.md`  
+- **Lenguaje de programación**: Java 
 
----
 
-## 💻 Estructura del Repositorio
 
-```plaintext
-Metodos_Numericos/
-├── T1 - Introducción a los métodos numéricos/
-│   └── Introducción a los métodos númericos.md
-├── T2-Metodos-de-Solucion-de-Ecuaciones/
-├── T3-Solucion-de-Sistemas-de-Ecuaciones-Lineales/
-├── T4 - Diferenciación e Integración Numérica/
-│   └── Introducción a la DIferenciaión e Integración Numérica.md
-├── T5-Interpolacion-y-Ajuste-de-Funciones/
-├── T6-Solucion-de-Ecuaciones-Diferenciales/
-└── README.md
