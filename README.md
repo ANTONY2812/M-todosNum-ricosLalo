@@ -1,8 +1,8 @@
 #  Métodos Numéricos
 
 ---
-![ITESA](assets/logo-itesa.png)
-![ISC](assets/logo-isc.png)
+![ITESA](https://itesa.edu.mx/images/logoitesa.png)
+
 
 ## 🎓 Instituto Tecnológico Superior del Oriente del Estado de Hidalgo  
 **Ingeniería en Sistemas Computacionales**  
