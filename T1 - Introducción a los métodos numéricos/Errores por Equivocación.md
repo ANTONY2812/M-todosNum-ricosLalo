@@ -1,28 +1,18 @@
-### 🔙 [← Regresar a T1 - Introducción a los Métodos Numéricos](https://github.com/Juan200519287393u83/Metodos_Numericos/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20n%C3%BAmericos.md)
 
-# ⚠️ Tema 1: Errores por Equivocación
 
----
-
-### ❓ ¿Qué es?
-
-Los **errores por equivocación** o **errores humanos** ocurren durante la formulación, programación o ejecución de un método numérico. Pueden ser errores al ingresar datos, escribir fórmulas incorrectas, seleccionar mal un método o interpretar erróneamente resultados.
-
-Aunque no son inherentes a los métodos numéricos, su impacto puede ser crítico. Por ello, es fundamental validar resultados, revisar código y verificar entradas y salidas para minimizarlos.
+#  Tema 1: Errores por Equivocación
 
 ---
 
-### ✅ Ventajas y ❌ Desventajas
+###  ¿Qué es?
 
-| ✅ **Ventajas**                                             | ❌ **Desventajas**                                             |
-| ---------------------------------------------------------- | ------------------------------------------------------------- |
-| Promueven mejores prácticas como validación y verificación | Son impredecibles y dependen del factor humano                |
-| Previenen problemas mayores mediante revisiones rigurosas  | Requieren tiempo extra para depuración y corrección           |
-| Mejoran la calidad del código y resultados                 | Pueden impactar significativamente si no se detectan a tiempo |
+Los errores humanos, también conocidos como errores por equivocación, suceden cuando cometemos fallas durante el desarrollo o aplicación de un método numérico. Estos errores pueden surgir al introducir mal los datos, escribir una fórmula de forma incorrecta, elegir un método inapropiado para el problema o incluso al interpretar de forma errónea los resultados obtenidos.
+
+Aunque este tipo de errores no forman parte directa del método numérico en sí, su efecto puede ser muy significativo. Por eso, es clave verificar cuidadosamente cada paso del proceso, revisar el código, comprobar las entradas y analizar con atención las salidas. Una validación adecuada ayuda a detectar a tiempo estos errores y a evitar que afecten las conclusiones del análisis.
 
 ---
 
-### 📝 Pseudocódigo
+### Pseudocódigo
 
 ```text
 Inicio
@@ -36,48 +26,5 @@ Inicio
 Fin
 ```
 
----
 
-### 💻 Código base en Java
 
-```java
-public class CodigoBaseEquivocacion {
-    public static void main(String[] args) {
-        double areaCorrecta = Math.PI * Math.pow(5, 2);
-        double areaConError = Math.PI * Math.pow(10, 2);
-
-        System.out.println("Área correcta: " + areaCorrecta);
-        System.out.println("Área con error: " + areaConError);
-        System.out.println("Diferencia por equivocación: " + Math.abs(areaCorrecta - areaConError));
-    }
-}
-```
-
----
-
-### 🛠 Ejemplo funcional en Java
-
-```java
-public class ErrorEquivocacion {
-    public static void main(String[] args) {
-        double radio = 5.0;
-        double areaIncorrecta = Math.PI * radio * 2;
-        double areaCorrecta = Math.PI * Math.pow(radio, 2);
-        double diferencia = Math.abs(areaCorrecta - areaIncorrecta);
-
-        System.out.printf("Área incorrecta: %.3f%n", areaIncorrecta);
-        System.out.printf("Área correcta: %.3f%n", areaCorrecta);
-        System.out.printf("Diferencia por equivocación: %.3f%n", diferencia);
-    }
-}
-```
-
----
-
-### 📋 Caso de prueba:
-
-```text
-Área incorrecta: 31.416
-Área correcta: 78.540
-Diferencia por equivocación: 47.124
-```
