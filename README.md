@@ -40,15 +40,17 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 
 --
 ### 📘 [Tema 1: Introducción a los métodos numéricos](https://github.com/ANTONY2812/M-todosNum-ricosLalo/tree/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos)
+## Contenido del Tema 1
+## 📘 Tema 1: Introducción a los métodos numéricos
+
+- [Error Numérico Total](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Error%20Num%C3%A9rico%20Total.md)
+- [Errores de Redondeo](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Errores%20de%20Redondeo.md)
+- [Errores de Truncamiento](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Errores%20de%20Truncamiento.md)
+- [Errores por Cancelación](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Errores%20por%20Cancelaci%C3%B3n.md)
+- [Error de Modelo](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Error%20de%20Modelo.md)
 
 --
-## Contenido del Tema 1
 
-- [Error Numérico Total](./Error%20Numérico%20Total.md)
-- [Errores de Redondeo](./Errores%20de%20Redondeo.md)
-- [Errores de Truncamiento](./Errores%20de%20Truncamiento.md)
-- [Errores por Cancelación](./Errores%20por%20Cancelación.md)
-- [Error de Modelo](./Error%20de%20Modelo.md)
 
 
 
