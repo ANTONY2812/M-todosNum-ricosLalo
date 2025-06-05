@@ -16,7 +16,7 @@ Este método es muy útil en estudios preliminares para identificar posibles ví
 
 ---
 
-## ⚙️ Pseudocódigo
+##  Pseudocódigo
 
 ```plaintext
 Inicio
