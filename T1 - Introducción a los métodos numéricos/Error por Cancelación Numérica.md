@@ -13,7 +13,7 @@ Reescribir expresiones algebraicas o usar formulaciones alternativas es fundamen
 
 ---
 
-### 📝 Pseudocódigo
+###  Pseudocódigo
 
 ```text
 Inicio
