@@ -3,6 +3,7 @@
 ---
 
 ## Instituto Tecnológico Superior del Oriente del Estado de Hidalgo  
+--
 **Ingeniería en Sistemas Computacionales**
 
 **Antony Eduard López Jiménez**
