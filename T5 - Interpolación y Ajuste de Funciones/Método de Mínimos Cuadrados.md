@@ -3,7 +3,7 @@
 
 ---
 
-##  Introducción
+##  ¿Qué es  Método de Mínimos Cuadrados?
 
 El método de mínimos cuadrados es una técnica matemática esencial para determinar la función que mejor representa un conjunto de datos experimentales, minimizando la suma de los cuadrados de las diferencias entre los valores observados y los predichos por el modelo.
 
