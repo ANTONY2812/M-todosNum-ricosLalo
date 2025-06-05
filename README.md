@@ -14,7 +14,7 @@ Los métodos numéricos son técnicas matemáticas que permiten encontrar soluci
 
 ---
 
-##  Contenido del Repositorio
+##  Contenido del Repositorio 
 
 Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y enlaces directos a los archivos `.md`. Los temas cubiertos incluyen:
 
