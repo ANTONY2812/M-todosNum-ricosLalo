@@ -52,5 +52,87 @@ Inicio
   Imprimir "Valor aproximado de la integral: ", integral
 Fin
 ```
+---
+
+##  Código base en Java
+
+```java
+public class CodigoBaseSimpsonThreeEighths {
+    public static double f(double x) {
+        return Math.exp(x);
+    }
+
+    public static void main(String[] args) {
+        double a = 0.0;
+        double b = 1.0;
+        int n = 3;
+
+        if (n % 3 != 0) {
+            System.out.println("El número de subintervalos debe ser múltiplo de 3");
+            return;
+        }
+
+        double h = (b - a) / n;
+        double suma = f(a) + f(b);
+
+        for (int i = 1; i < n; i++) {
+            double x = a + i * h;
+            if (i % 3 == 0) {
+                suma += 2 * f(x);
+            } else {
+                suma += 3 * f(x);
+            }
+        }
+
+        double integral = (3 * h / 8) * suma;
+        System.out.println("Valor aproximado de la integral: " + integral);
+    }
+}
+```
+
+---
+
+##  Ejemplo funcional en Java
+
+```java
+public class SimpsonThreeEighths {
+    public static double f(double x) {
+        return Math.exp(x);
+    }
+
+    public static void main(String[] args) {
+        double a = 0.0;
+        double b = 1.0;
+        int n = 3;
+
+        if (n % 3 != 0) {
+            System.out.println("El número de subintervalos debe ser múltiplo de 3");
+            return;
+        }
+
+        double h = (b - a) / n;
+        double suma = f(a) + f(b);
+
+        for (int i = 1; i < n; i++) {
+            double x = a + i * h;
+            if (i % 3 == 0) {
+                suma += 2 * f(x);
+            } else {
+                suma += 3 * f(x);
+            }
+        }
+
+        double integral = (3 * h / 8) * suma;
+        System.out.printf("Valor aproximado de la integral: %.3f%n", integral);
+    }
+}
+```
+
+---
+
+##  Resultado esperado
+```
+Valor aproximado de la integral: 1.718
+```
 
 ### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
