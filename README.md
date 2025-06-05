@@ -67,17 +67,23 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 
 ---
 ## 📘 Tema 4: Métodos de Interpolación
+📄 Documentación
+📄 Método de Simpson ⅓.md
 
-- [📄 Método de Simpson ⅓.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20Simpson%201%E2%85%93.md)
-- [📄 Método de Simpson ⅜.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20Simpson%203%E2%85%9C.md)
-- [📄 Método de la Cuadratura Gaussiana.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20la%20Cuadratura%20Gaussiana.md)
-- [📄 Método del Trapecio.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20del%20Trapecio.md)
+📄 Método de Simpson ⅜.md
 
+📄 Método de la Cuadratura Gaussiana.md
 
-- [💻 MetodoDeLaCuadraturaGaussiana.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/MetodoDeLaCuadraturaGaussiana.java)
-- [💻 MetodoDeSimpsonTresOctavos.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/MetodoDeSimpsonTresOctavos.java)
-- [💻 MetodoDeSimpsonUnTercio.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/MetodoDeSimpsonUnTercio.java)
-- [💻 MetodoDelTrapecio.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/MetodoDelTrapecio.java)
+📄 Método del Trapecio.md
+
+💻 Implementaciones en Java
+💻 MetodoDeLaCuadraturaGaussiana.java
+
+💻 MetodoDeSimpsonTresOctavos.java
+
+💻 MetodoDeSimpsonUnTercio.java
+
+💻 MetodoDelTrapecio.java
 
 --
 ## 📘 Tema 5: Métodos de Ajuste de Curvas
