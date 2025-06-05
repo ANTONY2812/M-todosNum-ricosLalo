@@ -1,5 +1,5 @@
 ### 🔙 [← Regresar a T2 - Métodos de Solución de Ecuaciones](https://github.com/ANTONY2812/M-todosNum-ricosLalo/tree/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones)
-Tema 3 – Métodos de Solución de Sistemas de Ecuaciones Lineales
+
 
 #  Tema 2: Método de la Regla Falsa (Falsa Posición)
 
@@ -41,3 +41,4 @@ Inicio
       a = p, fa = fp
 Fin
 ````
+### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
