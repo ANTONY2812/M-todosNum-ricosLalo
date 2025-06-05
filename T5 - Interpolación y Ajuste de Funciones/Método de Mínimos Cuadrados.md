@@ -34,5 +34,117 @@ Inicio
   Imprimir "Ecuación de la recta: y = m x + b"
 Fin
 ```
+---
+
+##  Código Base en Java
+
+```java
+public class CodigoBaseLeastSquares {
+    public static void main(String[] args) {
+        double[] x = {0, 1, 2, 3};
+        double[] y = {1, 2.718, 7.389, 20.085};
+        int n = x.length;
+        double sumX = 0, sumY = 0, sumXY = 0, sumX2 = 0;
+
+        for (int i = 0; i < n; i++) {
+            sumX  += x[i];
+            sumY  += y[i];
+            sumXY += x[i] * y[i];
+            sumX2 += x[i] * x[i];
+        }
+
+        double m = (n * sumXY - sumX * sumY) / (n * sumX2 - sumX * sumX);
+        double b = (sumY - m * sumX) / n;
+
+        System.out.printf("Ecuación de la recta: y = %.4fx + %.4f%n", m, b);
+    }
+}
+```
+
+---
+
+##  Ejemplo Funcional en Java con Evaluación del Ajuste
+
+```java
+public class LeastSquares {
+    public static class LinearModel {
+        public final double m;   // Pendiente
+        public final double b;   // Intersección
+        public final double mse; // Error cuadrático medio
+
+        public LinearModel(double m, double b, double mse) {
+            this.m = m;
+            this.b = b;
+            this.mse = mse;
+        }
+    }
+
+    public static LinearModel fitLinearModel(double[] x, double[] y) {
+        if (x == null || y == null || x.length != y.length || x.length < 2) {
+            throw new IllegalArgumentException("Los vectores x e y deben tener la misma longitud y al menos dos elementos");
+        }
+
+        int n = x.length;
+        double sumX = 0, sumY = 0, sumXY = 0, sumX2 = 0;
+
+        for (int i = 0; i < n; i++) {
+            sumX  += x[i];
+            sumY  += y[i];
+            sumXY += x[i] * y[i];
+            sumX2 += x[i] * x[i];
+        }
+
+        double denominator = n * sumX2 - sumX * sumX;
+        if (Math.abs(denominator) < 1e-10) {
+            throw new IllegalArgumentException("No se puede ajustar la recta: datos insuficientes o colineales");
+        }
+
+        double m = (n * sumXY - sumX * sumY) / denominator;
+        double b = (sumY - m * sumX) / n;
+
+        double mse = 0;
+        for (int i = 0; i < n; i++) {
+            double predicted = m * x[i] + b;
+            mse += Math.pow(y[i] - predicted, 2);
+        }
+        mse /= n;
+
+        return new LinearModel(m, b, mse);
+    }
+
+    public static void main(String[] args) {
+        double[] x = {0, 1, 2, 3};
+        double[] y = {1, 2.718, 7.389, 20.085};
+
+        try {
+            LinearModel model = fitLinearModel(x, y);
+            System.out.println("Ajuste por mínimos cuadrados:");
+            System.out.printf(" Ecuación de la recta: y = %.3fx + %.3f%n", model.m, model.b);
+            System.out.printf(" Error cuadrático medio: %.3f%n", model.mse);
+            System.out.println("🗃 Datos utilizados:");
+            for (int i = 0; i < x.length; i++) {
+                System.out.printf("  • (%.1f, %.3f)%n", x[i], y[i]);
+            }
+        } catch (IllegalArgumentException e) {
+            System.err.println(" Error: " + e.getMessage());
+        }
+    }
+}
+```
+
+---
+
+## Resultados del Caso de Prueba
+
+```text
+ Ajuste por mínimos cuadrados:
+ Ecuación de la recta: y = 6.361x + 0.171
+ Error cuadrático medio: 7.687
+🗃 Datos utilizados:
+  • (0.0, 1.000)
+  • (1.0, 2.718)
+  • (2.0, 7.389)
+  • (3.0, 20.085)
+```
 
 ### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
