@@ -68,7 +68,7 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 ---
 ## 📘 Tema 4: Métodos de Interpolación
 
--[Método de Simpson ⅓.md]https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20Simpson%20%E2%85%93.md
+-[Método de Simpson ⅓.md] (https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20Simpson%20%E2%85%93.md)
 
 https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20Simpson%20%E2%85%9C.md
 
