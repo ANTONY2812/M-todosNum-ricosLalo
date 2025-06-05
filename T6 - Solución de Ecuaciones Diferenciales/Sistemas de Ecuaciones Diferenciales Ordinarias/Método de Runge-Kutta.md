@@ -44,3 +44,4 @@ Para i = 0 hasta n
 Fin Para
 ```
 
+### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
