@@ -36,7 +36,7 @@ Fin
 
 ---
 
-## 💻 Código base en Java
+##  Código base en Java
 
 ```java
 public class CodigoBaseNewtonRaphson {
@@ -72,7 +72,7 @@ public class CodigoBaseNewtonRaphson {
 
 ---
 
-## ✅ Ejemplo funcional
+##  Ejemplo funcional
 
 ```java
 public class NewtonRaphsonMethod {
@@ -108,11 +108,11 @@ public class NewtonRaphsonMethod {
 
 ---
 
-## 🔬 Salida esperada
+##  Salida esperada
 
 ```text
 Iteración 0: x = 1.500, f(x) = -0.125
 Iteración 1: x = 1.521, f(x) = 0.001
-✅ Raíz encontrada: 1.521
+ Raíz encontrada: 1.521
 ```
 ### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
