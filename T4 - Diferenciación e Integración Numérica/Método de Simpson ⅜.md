@@ -52,3 +52,5 @@ Inicio
   Imprimir "Valor aproximado de la integral: ", integral
 Fin
 ```
+
+### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
