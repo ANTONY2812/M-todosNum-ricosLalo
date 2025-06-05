@@ -49,9 +49,6 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 - [Error de Modelo](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Error%20de%20Modelo.md)
 
 ---
-
-## 📗 Tema 2: Métodos de Solución de Ecuaciones
-
 ## 📗 Tema 2: Métodos de Solución de Ecuaciones
 
 - [Bisección](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/Bisecci%C3%B3n.md)
@@ -59,4 +56,5 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 - [Punto Fijo](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/Punto%20Fijo.md)
 - [Newton-Raphson](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/Newton-Raphson.md)
 - [Secante](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/Secante.md)
+
 
