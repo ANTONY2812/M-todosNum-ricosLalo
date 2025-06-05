@@ -43,5 +43,79 @@ Inicio
   Imprimir "Error de truncamiento: ", abs(real - aproximado)
 Fin
 ```
+---
 
+### 💻 Código base en Java
+
+```java
+public class CodigoBaseTruncamiento {
+    public static double funcionReal(double x) {
+        return Math.exp(x);
+    }
+
+    public static double aproximacionTaylor(double x, int n) {
+        double suma = 0;
+        for (int i = 0; i <= n; i++) {
+            double factorial = 1;
+            for (int j = 1; j <= i; j++) {
+                factorial *= j;
+            }
+            suma += Math.pow(x, i) / factorial;
+        }
+        return suma;
+    }
+
+    public static void main(String[] args) {
+        double x = 1.0;
+        int n = 3;
+        double real = funcionReal(x);
+        double aproximado = aproximacionTaylor(x, n);
+
+        System.out.println("Valor real: " + real);
+        System.out.println("Aproximación: " + aproximado);
+        System.out.println("Error de truncamiento: " + Math.abs(real - aproximado));
+    }
+}
+```
+
+---
+
+### 🛠 Ejemplo funcional en Java
+
+```java
+public class ErrorTruncamiento {
+    public static double taylorExp(double x, int n) {
+        double suma = 1.0;
+        double term = 1.0;
+
+        for (int i = 1; i <= n; i++) {
+            term *= x / i;
+            suma += term;
+        }
+
+        return suma;
+    }
+
+    public static void main(String[] args) {
+        double x = 1.0;
+        int n = 3;
+        double real = Math.exp(x);
+        double aproximado = taylorExp(x, n);
+
+        System.out.printf("Valor real: %.3f%n", real);
+        System.out.printf("Aproximación (n=3): %.3f%n", aproximado);
+        System.out.printf("Error de truncamiento: %.3f%n", Math.abs(real - aproximado));
+    }
+}
+```
+
+---
+
+### 📋 Caso de prueba:
+
+```text
+Valor real: 2.718
+Aproximación (n=3): 2.667
+Error de truncamiento: 0.051
+```
 ### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
