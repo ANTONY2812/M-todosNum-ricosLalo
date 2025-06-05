@@ -59,5 +59,13 @@ Método de Newton-Raphson
 
 Método de la Secante
 
+📘 Tema 3: Métodos de Solución de Sistemas de Ecuaciones Lineales
+Método de Eliminación de Gauss
+
+Método de Gauss-Jordan
+
+Método de Gauss-Seidel
+
+Método de Jacobi
 
 
