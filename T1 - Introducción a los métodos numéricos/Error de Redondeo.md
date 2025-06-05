@@ -15,7 +15,7 @@ Aunque estos errores suelen ser muy pequeños, cuando se realizan muchas operaci
 
 ---
 
-### 📝 Pseudocódigo
+###  Pseudocódigo
 
 ```text
 Inicio
@@ -28,5 +28,47 @@ Inicio
   Imprimir "Error de redondeo: ", (1.0 - b)
 Fin
 ```
+---
+
+###  Código Base en Java
+
+```java
+public class CodigoBaseRedondeo {
+    public static void main(String[] args) {
+        double a = 1.0 / 3.0;
+        double b = a * 3.0;
+
+        System.out.println("Resultado teórico: 1.0");
+        System.out.println("Resultado real: " + b);
+        System.out.println("Error de redondeo: " + (1.0 - b));
+    }
+}
+```
+
+---
+
+###  Ejemplo Funcional en Java
+
+```java
+public class ErrorRedondeo {
+    public static void main(String[] args) {
+        double resultado = (1.0 / 3.0) * 3.0;
+        double esperado = 1.0;
+
+        System.out.println("Resultado calculado: " + resultado);
+        System.out.println("Resultado esperado: " + esperado);
+        System.out.println("Error de redondeo: " + Math.abs(esperado - resultado));
+    }
+}
+```
+
+---
+
+###  Caso de prueba
+
+```
+Resultado calculado: 0.9999999999999999  
+Resultado esperado: 1.0  
+Error de redondeo: 1.1102230246251565E-16
 
 ### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
