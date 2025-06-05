@@ -43,5 +43,72 @@ Inicio
   Imprimir "Valor aproximado de la integral: ", integral
 Fin
 ```
+---
+
+##  Código base en Java
+
+```java
+public class CodigoBaseGaussianQuadrature {
+    public static double f(double x) {
+        return Math.exp(x);
+    }
+
+    public static void main(String[] args) {
+        double a = 0.0;
+        double b = 1.0;
+        int n = 3;
+        double[] puntos = {-0.774596669, 0.0, 0.774596669};
+        double[] pesos = {0.555555556, 0.888888889, 0.555555556};
+
+        double suma = 0;
+        for (int i = 0; i < n; i++) {
+            double t = puntos[i];
+            double x = ((b - a) * t + (b + a)) / 2;
+            suma += pesos[i] * f(x);
+        }
+
+        double integral = ((b - a) / 2) * suma;
+        System.out.println("Valor aproximado de la integral: " + integral);
+    }
+}
+```
+
+---
+
+## Ejemplo funcional en Java
+
+```java
+public class GaussianQuadrature {
+    public static double f(double x) {
+        return Math.exp(x);
+    }
+
+    public static void main(String[] args) {
+        double a = 0.0;
+        double b = 1.0;
+        int n = 3;
+        double[] puntos = {-0.774596669, 0.0, 0.774596669};
+        double[] pesos = {0.555555556, 0.888888889, 0.555555556};
+
+        double suma = 0;
+        for (int i = 0; i < n; i++) {
+            double t = puntos[i];
+            double x = ((b - a) * t + (b + a)) / 2;
+            suma += pesos[i] * f(x);
+        }
+
+        double integral = ((b - a) / 2) * suma;
+        System.out.printf("Valor aproximado de la integral: %.3f%n", integral);
+    }
+}
+```
+
+---
+
+##  Resultado esperado
+
+```
+Valor aproximado de la integral: 1.718
+```
 
 ### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
