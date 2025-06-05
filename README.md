@@ -38,5 +38,17 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 
 - **Lenguaje de programación**: Java 
 
+--
+### 📘 [Tema 1: Introducción a los métodos numéricos](https://github.com/ANTONY2812/M-todosNum-ricosLalo/tree/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos)
+
+--
+## Contenido del Tema 1
+
+- [Error Numérico Total](./Error%20Numérico%20Total.md)
+- [Errores de Redondeo](./Errores%20de%20Redondeo.md)
+- [Errores de Truncamiento](./Errores%20de%20Truncamiento.md)
+- [Errores por Cancelación](./Errores%20por%20Cancelación.md)
+- [Error de Modelo](./Error%20de%20Modelo.md)
+
 
 
