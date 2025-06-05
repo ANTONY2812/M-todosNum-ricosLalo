@@ -34,4 +34,50 @@ Inicio
   Imprimir "Error numérico total: ", errorTotal
 Fin
 ```
+
+---
+
+### 💻 Código Base en Java
+
+```java
+public class ErrorNumerico {
+    public static void main(String[] args) {
+        double real = Math.sqrt(2);
+        double aproximado = 1.414;
+        double errorTotal = Math.abs(real - aproximado);
+
+        System.out.println("Valor real: " + real);
+        System.out.println("Valor aproximado: " + aproximado);
+        System.out.println("Error numérico total: " + errorTotal);
+    }
+}
+```
+
+---
+
+### 🛠 Ejemplo Completo con Salida Formateada
+
+```java
+public class ErrorTotal {
+    public static void main(String[] args) {
+        double valorReal = Math.sqrt(2);
+        double valorAproximado = 1.4142;
+
+        double error = Math.abs(valorReal - valorAproximado);
+
+        System.out.printf("Valor real: %.4f%n", valorReal);
+        System.out.printf("Valor aproximado: %.4f%n", valorAproximado);
+        System.out.printf("Error numérico total: %.6f%n", error);
+    }
+}
+```
+
+---
+
+### 📋 Salida Esperada
+
+```
+Valor real: 1.4142  
+Valor aproximado: 1.4142  
+Error numérico total: 0.000014
 ### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
