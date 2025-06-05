@@ -5,7 +5,7 @@
 
 ---
 
-##  Introducción
+## ¿Qué es Método de Euler?
 
 El método de Euler es una técnica numérica básica utilizada para resolver ecuaciones diferenciales ordinarias (EDO) de forma aproximada. Su funcionamiento consiste en utilizar la pendiente de la solución (es decir, la derivada) en un punto conocido para estimar el valor de la función en el siguiente punto.
 
@@ -17,7 +17,7 @@ Aun cuando no ofrece gran precisión —especialmente con pasos grandes o funcio
 
 
 
-## 📝 Pseudocódigo
+##  Pseudocódigo
 
 ```text
 Inicio
