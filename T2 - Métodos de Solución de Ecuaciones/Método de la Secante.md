@@ -45,4 +45,90 @@ Inicio
 Fin
 ````
 
+---
+
+##  Código base en Java
+
+```java
+public class CodigoBaseSecante {
+    public static double f(double x) {
+        return Math.pow(x, 3) - x - 2;
+    }
+
+    public static void main(String[] args) {
+        double x0 = 1.0;
+        double x1 = 2.0;
+        double tolerancia = 0.001;
+        int maxIteraciones = 100;
+        int iteracion = 0;
+
+        while (iteracion < maxIteraciones) {
+            double fx0 = f(x0);
+            double fx1 = f(x1);
+            double x2 = x1 - (fx1 * (x1 - x0)) / (fx1 - fx0);
+            System.out.println("Iteración " + iteracion + ": x = " + x2 + ", f(x) = " + f(x2));
+
+            if (Math.abs(f(x2)) < tolerancia) {
+                System.out.println("Raíz encontrada: " + x2);
+                return;
+            }
+
+            x0 = x1;
+            x1 = x2;
+            iteracion++;
+        }
+
+        System.out.println("Máximo de iteraciones alcanzado");
+    }
+}
+```
+
+---
+
+##  Ejemplo funcional en Java
+
+```java
+public class SecantMethod {
+    public static double f(double x) {
+        return x * x * x - x - 2;
+    }
+
+    public static void main(String[] args) {
+        double x0 = 1.0;
+        double x1 = 2.0;
+        double tolerancia = 0.001;
+        int maxIteraciones = 100;
+
+        for (int iteracion = 0; iteracion < maxIteraciones; iteracion++) {
+            double fx0 = f(x0);
+            double fx1 = f(x1);
+            double x2 = x1 - (fx1 * (x1 - x0)) / (fx1 - fx0);
+            System.out.printf("Iteración %d: x = %.3f, f(x) = %.3f%n", iteracion, x2, f(x2));
+
+            if (Math.abs(f(x2)) < tolerancia) {
+                System.out.printf("Raíz encontrada: %.3f%n", x2);
+                return;
+            }
+
+            x0 = x1;
+            x1 = x2;
+        }
+
+        System.out.println("Máximo de iteraciones alcanzado");
+    }
+}
+```
+
+---
+
+## Caso de prueba
+
+```text
+Iteración 0: x = 1.556, f(x) = 0.214
+Iteración 1: x = 1.518, f(x) = 0.002
+ Raíz encontrada: 1.518
+```
+
+---
+
 ### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
