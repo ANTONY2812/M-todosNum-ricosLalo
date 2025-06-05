@@ -38,5 +38,79 @@ Inicio
   Imprimir "El punto está fuera del rango de interpolación"
 Fin
 ```
+---
+
+##  Código base en Java
+
+```java
+public class CodigoBaseLinearInterpolation {
+    public static void main(String[] args) {
+        double[] x = {0, 1, 2, 3};
+        double[] y = {1, 2.718, 7.389, 20.085};
+        double xp = 1.5;
+        int n = x.length;
+
+        for (int i = 0; i < n - 1; i++) {
+            if (x[i] <= xp && xp <= x[i + 1]) {
+                double yp = y[i] + (y[i + 1] - y[i]) * (xp - x[i]) / (x[i + 1] - x[i]);
+                System.out.println("Valor interpolado en x = " + xp + ": " + yp);
+                return;
+            }
+        }
+        System.out.println("El punto está fuera del rango de interpolación");
+    }
+}
+```
+
+---
+
+##  Ejemplo funcional en Java
+
+```java
+public class LinearInterpolation {
+    public static double interpolate(double[] x, double[] y, double xp) {
+        if (x == null || y == null || x.length != y.length || x.length < 2) {
+            throw new IllegalArgumentException("Los vectores x e y deben tener la misma longitud y al menos 2 elementos");
+        }
+        for (int i = 1; i < x.length; i++) {
+            if (x[i] <= x[i - 1]) {
+                throw new IllegalArgumentException("El vector x debe estar ordenado de forma ascendente");
+            }
+        }
+        for (int i = 0; i < x.length - 1; i++) {
+            if (x[i] <= xp && xp <= x[i + 1]) {
+                double yp = y[i] + (y[i + 1] - y[i]) * (xp - x[i]) / (x[i + 1] - x[i]);
+                return yp;
+            }
+        }
+        throw new IllegalArgumentException("El punto xp está fuera del rango de interpolación");
+    }
+
+    public static void main(String[] args) {
+        double[] x = {0, 1, 2, 3};
+        double[] y = {1, 2.718, 7.389, 20.085};
+        double xp = 1.5;
+
+        try {
+            double yp = interpolate(x, y, xp);
+            System.out.printf("Interpolación lineal:%n");
+            System.out.printf("Punto interpolado: x = %.1f, y = %.3f%n", xp, yp);
+            System.out.printf("Puntos utilizados: (%.1f, %.3f), (%.1f, %.3f)%n", x[1], y[1], x[2], y[2]);
+        } catch (IllegalArgumentException e) {
+            System.out.println("Error: " + e.getMessage());
+        }
+    }
+}
+```
+
+---
+
+##  Resultado esperado
+
+```
+Interpolación lineal:
+Punto interpolado: x = 1.5, y = 5.054
+Puntos utilizados: (1.0, 2.718), (2.0, 7.389)
+```
 
 ### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
