@@ -95,5 +95,4 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 - [SistemasDeEcuacionesDiferencialesOrdinarias.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/SistemasDeEcuacionesDiferencialesOrdinarias.java)
 - [Sistemas de Ecuaciones Diferenciales Ordinarias (carpeta)](https://github.com/ANTONY2812/M-todosNum-ricosLalo/tree/main/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/Sistemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias)
 
-
 ---
