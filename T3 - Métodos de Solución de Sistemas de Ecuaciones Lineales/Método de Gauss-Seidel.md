@@ -31,3 +31,5 @@ Inicio
     Si el error < tolerancia, detener
 Fin
 ```
+
+### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
