@@ -29,7 +29,51 @@ Inicio
   Imprimir "Error por cancelación: ", abs(0.0000001 - resultado)
 Fin
 ```
+### 💻 Código Base en Java
+
+```java
+public class CodigoBaseCancelacion {
+    public static void main(String[] args) {
+        double a = 1.0000001;
+        double b = 1.0000000;
+        double resultado = a - b;
+
+        System.out.println("Resultado esperado: 0.0000001");
+        System.out.println("Resultado real: " + resultado);
+        System.out.println("Error por cancelación: " + Math.abs(0.0000001 - resultado));
+    }
+}
+```
 
 ---
 
+### 🛠 Ejemplo Funcional en Java
+
+```java
+public class CancelacionNumerica {
+    public static void main(String[] args) {
+        double a = 1.0000001;
+        double b = 1.0000000;
+
+        double resultado = a - b;
+        double esperado = 0.0000001;
+
+        System.out.printf("Resultado calculado: %.7f%n", resultado);
+        System.out.printf("Resultado esperado: %.7f%n", esperado);
+        System.out.println("Error por cancelación: " + Math.abs(esperado - resultado));
+    }
+}
+```
+
+---
+
+### 📋 Caso de prueba
+
+```text
+Resultado calculado: 0.0000001
+Resultado esperado: 0.0000001
+Error por cancelación: 1.3552527156068805E-15
+---
+
+```
 ### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
