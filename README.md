@@ -50,5 +50,14 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 
 ---
 
+📘 Tema 2: Métodos de Solución de Ecuaciones
+Método de Bisección
+
+Método de la Falsa Posición
+
+Método de Newton-Raphson
+
+Método de la Secante
+
 
 
