@@ -1,8 +1,7 @@
-### 🔙 [Volver al Índice Principal](https://github.com/Juan200519287393u83/Metodos_Numericos/tree/main)
 
-# 📐 Tema 3: Técnicas para Resolver Sistemas de Ecuaciones Lineales
+#  Tema 3: Técnicas para Resolver Sistemas de Ecuaciones Lineales
 
-## 📝 Resumen
+##  Resumen
 
 Dentro del análisis numérico, la resolución de sistemas de ecuaciones lineales es una de las áreas más importantes y ampliamente utilizadas en ingeniería, ciencias exactas y computación. Estos sistemas modelan diversas situaciones reales, desde circuitos eléctricos y estructuras mecánicas hasta procesos químicos, flujos de fluidos y análisis económicos. Debido al gran tamaño que pueden alcanzar estos sistemas, resolverlos manualmente es poco viable, lo que hace indispensable contar con métodos numéricos eficientes y confiables.
 
