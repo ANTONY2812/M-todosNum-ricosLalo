@@ -49,8 +49,6 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 - [Errores por Cancelación](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Errores%20por%20Cancelaci%C3%B3n.md)
 - [Error de Modelo](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Error%20de%20Modelo.md)
 
---
-
 
 
 
