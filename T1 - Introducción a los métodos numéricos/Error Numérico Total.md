@@ -82,5 +82,6 @@ Valor aproximado: 1.4142
 Error numérico total: 0.000014
 ### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
 
-```
+`````
 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
+```
