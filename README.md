@@ -68,10 +68,15 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 ---
 ## 📘 Tema 4: Métodos de Interpolación
 
-- [Interpolación de Lagrange](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20M%C3%A9todos%20de%20Interpolaci%C3%B3n/Interpolaci%C3%B3n%20de%20Lagrange.md)
-- [Interpolación de Newton](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20M%C3%A9todos%20de%20Interpolaci%C3%B3n/Interpolaci%C3%B3n%20de%20Newton.md)
-- [Interpolación por Diferencias Divididas](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20M%C3%A9todos%20de%20Interpolaci%C3%B3n/Interpolaci%C3%B3n%20por%20Diferencias%20Divididas.md)
-- [Interpolación por Splines](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20M%C3%A9todos%20de%20Interpolaci%C3%B3n/Interpolaci%C3%B3n%20por%20Splines.md)
+- [📄 Método de Simpson ⅓.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20Simpson%20%E215.md)
+- [📄 Método de Simpson ⅜.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20Simpson%20%E215.md)
+- [📄 Método de la Cuadratura Gaussiana.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20la%20Cuadratura%20Gaussiana.md)
+- [📄 Método del Trapecio.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20del%20Trapecio.md)
+- [💻 MetodoDeLaCuadraturaGaussiana.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Integraci%C3%B3n%20Num%C3%A9rica/MetodoDeLaCuadraturaGaussiana.java)
+- [💻 MetodoDeSimpsonTresOctavos.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Integraci%C3%B3n%20Num%C3%A9rica/MetodoDeSimpsonTresOctavos.java)
+- [💻 MetodoDeSimpsonUnTercio.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Integraci%C3%B3n%20Num%C3%A9rica/MetodoDeSimpsonUnTercio.java)
+- [💻 MetodoDelTrapecio.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Integraci%C3%B3n%20Num%C3%A9rica/MetodoDelTrapecio.java)
+
 --
 ## 📘 Tema 5: Métodos de Ajuste de Curvas
 
