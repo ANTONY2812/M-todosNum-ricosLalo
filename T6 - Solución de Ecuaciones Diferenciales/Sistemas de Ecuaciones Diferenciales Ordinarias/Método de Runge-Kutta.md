@@ -1,6 +1,6 @@
 
 
-# 🎯  Tema 6: Método de Runge-Kutta
+#   Tema 6: Método de Runge-Kutta
 
 
 ---
