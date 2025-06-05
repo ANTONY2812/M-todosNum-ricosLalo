@@ -63,15 +63,12 @@ public class ErrorRedondeo {
 ```
 
 ---
-
 ###  Caso de prueba
-
 ```
 Resultado calculado: 0.9999999999999999  
 Resultado esperado: 1.0  
 Error de redondeo: 1.1102230246251565E-16
 ---
-
-### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
-
 ---
+---
+### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
