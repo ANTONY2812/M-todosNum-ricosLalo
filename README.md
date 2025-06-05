@@ -66,3 +66,29 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 - [Método de Jacobi](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T3%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Sistemas%20de%20Ecuaciones%20Lineales/M%C3%A9todo%20de%20Jacobi.md)
 
 ---
+## 📘 Tema 4: Métodos de Interpolación
+
+- [Interpolación de Lagrange](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20M%C3%A9todos%20de%20Interpolaci%C3%B3n/Interpolaci%C3%B3n%20de%20Lagrange.md)
+- [Interpolación de Newton](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20M%C3%A9todos%20de%20Interpolaci%C3%B3n/Interpolaci%C3%B3n%20de%20Newton.md)
+- [Interpolación por Diferencias Divididas](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20M%C3%A9todos%20de%20Interpolaci%C3%B3n/Interpolaci%C3%B3n%20por%20Diferencias%20Divididas.md)
+- [Interpolación por Splines](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20M%C3%A9todos%20de%20Interpolaci%C3%B3n/Interpolaci%C3%B3n%20por%20Splines.md)
+
+---
+
+## 📘 Tema 5: Métodos de Ajuste de Curvas
+
+- [Regresión Lineal](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20de%20Ajuste%20de%20Curvas/Regresi%C3%B3n%20Lineal.md)
+- [Regresión Polinómica](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20de%20Ajuste%20de%20Curvas/Regresi%C3%B3n%20Polin%C3%B3mica.md)
+- [Ajuste Exponencial](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20de%20Ajuste%20de%20Curvas/Ajuste%20Exponencial.md)
+- [Ajuste Logarítmico](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20de%20Ajuste%20de%20Curvas/Ajuste%20Logar%C3%ADtmico.md)
+
+---
+
+## 📘 Tema 6: Métodos de Integración Numérica
+
+- [Regla del Trapecio](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20M%C3%A9todos%20de%20Integraci%C3%B3n%20Num%C3%A9rica/Regla%20del%20Trapecio.md)
+- [Regla de Simpson 1/3](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20M%C3%A9todos%20de%20Integraci%C3%B3n%20Num%C3%A9rica/Regla%20de%20Simpson%201-3.md)
+- [Regla de Simpson 3/8](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20M%C3%A9todos%20de%20Integraci%C3%B3n%20Num%C3%A9rica/Regla%20de%20Simpson%203-8.md)
+- [Integración por Cuadratura de Gauss](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20M%C3%A9todos%20de%20Integraci%C3%B3n%20Num%C3%A9rica/Integraci%C3%B3n%20por%20Cuadratura%20de%20Gauss.md)
+
+---
