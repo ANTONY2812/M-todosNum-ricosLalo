@@ -1,3 +1,6 @@
+### 🔙 [← Regresar a T1 - Introducción a los Métodos Numéricos](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introduccion%20a%20los%20Metodos%20Numericos/Introduccion.md)
+
+
 
 # Tema 1: Tipos de Errores Numéricos  
  
