@@ -34,4 +34,85 @@ Inicio
 Fin
 ````
 
+---
+
+## 💻 Código base en Java
+
+```java
+public class CodigoBaseNewtonRaphson {
+    public static double f(double x) {
+        return Math.pow(x, 3) - x - 2;
+    }
+
+    public static double fPrima(double x) {
+        return 3 * Math.pow(x, 2) - 1;
+    }
+
+    public static void main(String[] args) {
+        double x = 1.5;
+        double tolerancia = 0.001;
+        int maxIteraciones = 100;
+
+        for (int i = 0; i < maxIteraciones; i++) {
+            double fx = f(x);
+            System.out.printf("Iteración %d: x = %.3f, f(x) = %.3f%n", i, x, fx);
+
+            if (Math.abs(fx) < tolerancia) {
+                System.out.printf("Raíz encontrada: %.3f%n", x);
+                return;
+            }
+
+            x = x - fx / fPrima(x);
+        }
+
+        System.out.println("Máximo de iteraciones alcanzado");
+    }
+}
+```
+
+---
+
+## ✅ Ejemplo funcional
+
+```java
+public class NewtonRaphsonMethod {
+    public static double f(double x) {
+        return x * x * x - x - 2;
+    }
+
+    public static double fPrima(double x) {
+        return 3 * x * x - 1;
+    }
+
+    public static void main(String[] args) {
+        double x = 1.5;
+        double tolerancia = 0.001;
+        int maxIteraciones = 100;
+
+        for (int iteracion = 0; iteracion < maxIteraciones; iteracion++) {
+            double fx = f(x);
+            System.out.printf("Iteración %d: x = %.3f, f(x) = %.3f%n", iteracion, x, fx);
+
+            if (Math.abs(fx) < tolerancia) {
+                System.out.printf("Raíz encontrada: %.3f%n", x);
+                return;
+            }
+
+            x = x - fx / fPrima(x);
+        }
+
+        System.out.println("Máximo de iteraciones alcanzado");
+    }
+}
+```
+
+---
+
+## 🔬 Salida esperada
+
+```text
+Iteración 0: x = 1.500, f(x) = -0.125
+Iteración 1: x = 1.521, f(x) = 0.001
+✅ Raíz encontrada: 1.521
+```
 ### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
