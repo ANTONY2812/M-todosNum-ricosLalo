@@ -1,3 +1,4 @@
+### 🔙 [← Regresar a T5 - Interpolación y Ajuste de Funciones](https://github.com/ANTONY2812/M-todosNum-ricosLalo/tree/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones)
 
 #   Tema 5: Método de Mínimos Cuadrados
 
