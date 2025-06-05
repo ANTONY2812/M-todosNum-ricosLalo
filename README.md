@@ -48,6 +48,14 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 - [Errores por Cancelación](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Errores%20por%20Cancelaci%C3%B3n.md)
 - [Error de Modelo](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Error%20de%20Modelo.md)
 
+---
+## Contenido del Tema 2
+## 📗 Tema 2: Métodos de Solución de Ecuaciones
 
+- [Método de Bisección](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/Bisecci%C3%B3n.md)
+- [Método de la Regla Falsa](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/Regla%20Falsa.md)
+- [Método de Punto Fijo](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/Punto%20Fijo.md)
+- [Método de Newton-Raphson](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/Newton-Raphson.md)
+- [Método de la Secante](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/Secante.md)
 
 
