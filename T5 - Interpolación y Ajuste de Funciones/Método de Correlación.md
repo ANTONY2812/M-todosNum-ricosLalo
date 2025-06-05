@@ -38,3 +38,5 @@ Inicio
   Imprimir "Coeficiente de correlación: ", r
 Fin
 ```
+
+### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
