@@ -6,6 +6,7 @@
 **Ingeniería en Sistemas Computacionales**
 
 **Antony Eduard López Jiménez**
+--
 **MTI. Efren Rolando Romero Leon**
 ---
 
