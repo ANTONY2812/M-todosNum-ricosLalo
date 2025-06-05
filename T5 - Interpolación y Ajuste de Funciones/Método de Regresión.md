@@ -2,7 +2,6 @@
 
 #   Tema 5: Método de Regresión
 
-
 ---
 
 ##  ¿Qué es Método de Regresión?
