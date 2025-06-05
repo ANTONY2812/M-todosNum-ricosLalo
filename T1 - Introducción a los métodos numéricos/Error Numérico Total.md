@@ -2,6 +2,7 @@
 
 
 
+
 # Tema 1: Tipos de Errores Numéricos  
  
 ---
