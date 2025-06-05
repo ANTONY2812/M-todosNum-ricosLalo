@@ -1,5 +1,3 @@
-### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
-
 ### 🔙 [← Regresar a T1 - Introducción a los métodos numéricos](https://github.com/ANTONY2812/M-todosNum-ricosLalo/tree/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos)
 
 # Tema 1: Tipos de Errores Numéricos  
@@ -36,3 +34,4 @@ Inicio
   Imprimir "Error numérico total: ", errorTotal
 Fin
 ```
+### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
