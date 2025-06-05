@@ -34,7 +34,7 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 
 ---
 
-## + Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Lenguaje de programación**: Java 
 
