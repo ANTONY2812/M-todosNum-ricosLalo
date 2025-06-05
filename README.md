@@ -1,4 +1,4 @@
-#  Métodos Numéricos
+ #  Métodos Numéricos
 
 ---
 
@@ -73,19 +73,24 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 - [Interpolación por Diferencias Divididas](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20M%C3%A9todos%20de%20Interpolaci%C3%B3n/Interpolaci%C3%B3n%20por%20Diferencias%20Divididas.md)
 - [Interpolación por Splines](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20M%C3%A9todos%20de%20Interpolaci%C3%B3n/Interpolaci%C3%B3n%20por%20Splines.md)
 
---## 📘 Tema 5: Métodos de Ajuste de Curvas
+## 📘 Tema 5: Métodos de Ajuste de Curvas
 
-* [Interpolación Lineal.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/Interpolaci%C3%B3n%20Lineal.md)
-* [Interpolación Polinómica.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/Interpolaci%C3%B3n%20Polin%C3%B3mica.md)
-* [Método de Correlación.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/M%C3%A9todo%20de%20Correlaci%C3%B3n.md)
-* [Método de Mínimos Cuadrados.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/M%C3%A9todo%20de%20M%C3%ADnimos%20Cuadrados.md)
-* [Método de Regresión.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/M%C3%A9todo%20de%20Regresi%C3%B3n.md)
-* [InterpolacionLineal.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/InterpolacionLineal.java)
-* [InterpolacionPolinomica.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/InterpolacionPolinomica.java)
-* [MetodoDeCorrelacion.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/MetodoDeCorrelacion.java)
-* [MetodoDeMinimosCuadrados.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/MetodoDeMinimosCuadrados.java)
-* [MetodoDeRegresion.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/MetodoDeRegresion.java)
--
+### 📄 Documentación (Markdown)
+
+- [🔗 Interpolación Lineal](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/Interpolaci%C3%B3n%20Lineal.md)
+- [🔗 Interpolación Polinómica](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/Interpolaci%C3%B3n%20Polin%C3%B3mica.md)
+- [🔗 Método de Correlación](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/M%C3%A9todo%20de%20Correlaci%C3%B3n.md)
+- [🔗 Método de Mínimos Cuadrados](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/M%C3%A9todo%20de%20M%C3%ADnimos%20Cuadrados.md)
+- [🔗 Método de Regresión](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/M%C3%A9todo%20de%20Regresi%C3%B3n.md)
+
+### 💻 Implementaciones en Java
+
+- [🧩 InterpolacionLineal.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/InterpolacionLineal.java)
+- [🧩 InterpolacionPolinomica.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/InterpolacionPolinomica.java)
+- [🧩 MetodoDeCorrelacion.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/MetodoDeCorrelacion.java)
+- [🧩 MetodoDeMinimosCuadrados.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/MetodoDeMinimosCuadrados.java)
+- [🧩 MetodoDeRegresion.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/MetodoDeRegresion.java)
+
 
 ---
 
