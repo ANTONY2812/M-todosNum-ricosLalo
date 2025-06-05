@@ -1,4 +1,4 @@
-### 🔙 [← Regresar a T1 - Introducción a los Métodos Numéricos](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introduccion%20a%20los%20Metodos%20Numericos/Introduccion.md)
+### 🔙 [← Regresar a T1 - Introducción a los Métodos Numéricos](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Introduccion.md)
 
 
 
