@@ -38,3 +38,5 @@ Inicio
   Imprimir "El punto está fuera del rango de interpolación"
 Fin
 ```
+
+### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
