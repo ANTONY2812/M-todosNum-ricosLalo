@@ -84,11 +84,16 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 
 ---
 
-## 📘 Tema 6: Métodos de Integración Numérica
+## 📘 Tema 6: Solución de Ecuaciones Diferenciales
 
-- [Regla del Trapecio](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20M%C3%A9todos%20de%20Integraci%C3%B3n%20Num%C3%A9rica/Regla%20del%20Trapecio.md)
-- [Regla de Simpson 1/3](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20M%C3%A9todos%20de%20Integraci%C3%B3n%20Num%C3%A9rica/Regla%20de%20Simpson%201-3.md)
-- [Regla de Simpson 3/8](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20M%C3%A9todos%20de%20Integraci%C3%B3n%20Num%C3%A9rica/Regla%20de%20Simpson%203-8.md)
-- [Integración por Cuadratura de Gauss](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20M%C3%A9todos%20de%20Integraci%C3%B3n%20Num%C3%A9rica/Integraci%C3%B3n%20por%20Cuadratura%20de%20Gauss.md)
+- [Método de un Paso](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/M%C3%A9todo%20de%20un%20Paso.md)
+- [Método de Pasos Múltiples](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/M%C3%A9todo%20de%20Pasos%20M%C3%BAltiples.md)
+- [MetodoDeUnPasoEuler.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/MetodoDeUnPasoEuler.java)
+- [MetodoDePasoMultiple.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/MetodoDePasoMultiple.java)
+- [MetodoDeRungeKutta.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/MetodoDeRungeKutta.java)
+- [MetodoDeTaylor.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/MetodoDeTaylor.java)
+- [SistemasDeEcuacionesDiferencialesOrdinarias.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/SistemasDeEcuacionesDiferencialesOrdinarias.java)
+- [Sistemas de Ecuaciones Diferenciales Ordinarias (carpeta)](https://github.com/ANTONY2812/M-todosNum-ricosLalo/tree/main/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/Sistemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias)
+
 
 ---
