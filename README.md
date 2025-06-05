@@ -75,21 +75,26 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 
 ## 📘 Tema 5: Métodos de Ajuste de Curvas
 
-### 📄 Documentación (Markdown)
 
-- [🔗 Interpolación Lineal](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/Interpolaci%C3%B3n%20Lineal.md)
-- [🔗 Interpolación Polinómica](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/Interpolaci%C3%B3n%20Polin%C3%B3mica.md)
-- [🔗 Método de Correlación](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/M%C3%A9todo%20de%20Correlaci%C3%B3n.md)
-- [🔗 Método de Mínimos Cuadrados](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/M%C3%A9todo%20de%20M%C3%ADnimos%20Cuadrados.md)
-- [🔗 Método de Regresión](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/M%C3%A9todo%20de%20Regresi%C3%B3n.md)
+- 📘 [Interpolación Lineal](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/Interpolaci%C3%B3n%20Lineal.md): Explicación del método para interpolar valores entre dos puntos conocidos.
+- 📘 [Interpolación Polinómica](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/Interpolaci%C3%B3n%20Polin%C3%B3mica.md): Uso de polinomios de mayor grado para aproximar funciones.
+- 📘 [Método de Correlación](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/M%C3%A9todo%20de%20Correlaci%C3%B3n.md): Relación entre variables mediante el coeficiente de Pearson.
+- 📘 [Método de Mínimos Cuadrados](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/M%C3%A9todo%20de%20M%C3%ADnimos%20Cuadrados.md): Ajuste de datos a una función lineal minimizando errores.
+- 📘 [Método de Regresión](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/M%C3%A9todo%20de%20Regresi%C3%B3n.md): Modelado de relaciones entre variables dependientes e independientes.
+
+---
 
 ### 💻 Implementaciones en Java
 
-- [🧩 InterpolacionLineal.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/InterpolacionLineal.java)
-- [🧩 InterpolacionPolinomica.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/InterpolacionPolinomica.java)
-- [🧩 MetodoDeCorrelacion.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/MetodoDeCorrelacion.java)
-- [🧩 MetodoDeMinimosCuadrados.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/MetodoDeMinimosCuadrados.java)
-- [🧩 MetodoDeRegresion.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/MetodoDeRegresion.java)
+- 💻 [InterpolacionLineal.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/InterpolacionLineal.java): Algoritmo funcional que calcula el valor interpolado entre dos puntos.
+- 💻 [InterpolacionPolinomica.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/InterpolacionPolinomica.java): Implementa el método de interpolación con polinomios de Lagrange.
+- 💻 [MetodoDeCorrelacion.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/MetodoDeCorrelacion.java): Calcula el coeficiente de correlación de Pearson entre dos variables.
+- 💻 [MetodoDeMinimosCuadrados.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/MetodoDeMinimosCuadrados.java): Ajuste de datos a una línea recta minimizando la suma de los errores al cuadrado.
+- 💻 [MetodoDeRegresion.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/MetodoDeRegresion.java): Permite aplicar regresión lineal y mostrar el modelo obtenido.
+
+---
+
+🔧 ¿Quieres que también mejore los códigos Java o agregue gráficos en los `.md`? Puedo ayudarte a automatizar eso.
 
 
 ---
