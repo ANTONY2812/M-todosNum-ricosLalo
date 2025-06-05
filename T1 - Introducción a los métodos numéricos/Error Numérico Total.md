@@ -1,33 +1,22 @@
-### 🔙 [← Regresar a T1 - Introducción a los Métodos Numéricos](https://github.com/Juan200519287393u83/Metodos_Numericos/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20n%C3%BAmericos.md)
+###  [← Regresar a T1 - Introducción a los Métodos Numéricos](https://github.com/Juan200519287393u83/Metodos_Numericos/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20n%C3%BAmericos.md)
 
-# 📊 Tema 1: Tipos de Errores Numéricos
-
-## ⚠️ Error Numérico Total
-
----
-
-### ❓ ¿Qué es?
-
-El **Error Numérico Total** es la diferencia global entre el valor exacto (teórico) y el valor aproximado obtenido en un cálculo numérico. Incluye distintos tipos de errores:
-
-* Redondeo
-* Truncamiento
-* Errores del modelo
-* Cancelación
-* Incertidumbre en datos de entrada
-
-> Comprender este error es crucial para evaluar la precisión y confiabilidad de los métodos numéricos aplicados.
+# Tema 1: Tipos de Errores Numéricos  
+ 
 
 ---
 
-### ✅ Ventajas y ❌ Desventajas
+## Error Numérico Total
 
-| ✅ **Ventajas**                            | ❌ **Desventajas**                                              |
-| ----------------------------------------- | -------------------------------------------------------------- |
-| Evaluación integral de la precisión total | Difícil desglose de errores individuales                       |
-| Facilita la toma de decisiones informadas | Requiere conocer valores exactos o muy precisos                |
-| Identifica fuentes principales de error   | Puede aumentar costos computacionales                          |
-| Aplicable a cualquier método numérico     | Difícil estimación en problemas reales con múltiples variables |
+### ¿Qué es?
+
+El **Error Numérico Total** representa la diferencia global entre el valor real (o exacto) y el valor aproximado obtenido a través de métodos numéricos. Este error es inevitable en cálculos digitales y se compone de varios tipos:
+
+- 🔹 **Error de redondeo:** causado por la limitación del número de cifras decimales al almacenar o procesar.
+- 🔹 **Error de truncamiento:** surge al sustituir un proceso matemático por una aproximación (por ejemplo, derivadas con diferencias finitas).
+- 🔹 **Errores del modelo:** cuando el modelo matemático usado no representa completamente el fenómeno real.
+- 🔹 **Cancelación:** pérdida de precisión cuando se restan números muy cercanos entre sí.
+
+
 
 ---
 
