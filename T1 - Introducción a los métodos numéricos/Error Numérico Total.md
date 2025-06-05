@@ -37,7 +37,7 @@ Fin
 
 ---
 
-### 💻 Código Base en Java
+###  Código Base en Java
 
 ```java
 public class ErrorNumerico {
@@ -55,7 +55,7 @@ public class ErrorNumerico {
 
 ---
 
-### 🛠 Ejemplo Completo con Salida Formateada
+###  Ejemplo Completo con Salida Formateada
 
 ```java
 public class ErrorTotal {
@@ -74,7 +74,7 @@ public class ErrorTotal {
 
 ---
 
-### 📋 Salida Esperada
+###  Salida Esperada
 
 ```
 Valor real: 1.4142  
