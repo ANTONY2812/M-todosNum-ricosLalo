@@ -5,7 +5,7 @@
 
 ---
 
-##  Introducción
+##  ¿Qué es Método de Runge-Kutta?
 
 El método de Runge-Kutta representa una familia de algoritmos numéricos diseñados para aproximar soluciones de ecuaciones diferenciales ordinarias (EDO) con gran precisión. El más utilizado es el Runge-Kutta de cuarto orden (RK4), reconocido por ofrecer una excelente relación entre exactitud y esfuerzo computacional.
 
