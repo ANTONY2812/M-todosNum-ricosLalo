@@ -49,13 +49,20 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 - [Error de Modelo](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Error%20de%20Modelo.md)
 
 ---
-📘 Tema 2: Métodos de Solución de Ecuaciones
-Método de Bisección
+## 📘 Tema 2: Métodos de Solución de Ecuaciones
 
-Método de la Falsa Posición
+- [Método de Bisección](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20Bisecci%C3%B3n.md)
+- [Método de la Falsa Posición](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20la%20Falsa%20Posici%C3%B3n.md)
+- [Método de Newton-Raphson](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20Newton-Raphson.md)
+- [Método de la Secante](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20la%20Secante.md)
 
-Método de Newton-Raphson
+---
 
-Método de la Secante
+## 📘 Tema 3: Métodos de Solución de Sistemas de Ecuaciones Lineales
 
+- [Método de Eliminación de Gauss](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T3%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Sistemas%20de%20Ecuaciones%20Lineales/M%C3%A9todo%20de%20Eliminaci%C3%B3n%20de%20Gauss.md)
+- [Método de Gauss-Jordan](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T3%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Sistemas%20de%20Ecuaciones%20Lineales/M%C3%A9todo%20de%20Gauss-Jordan.md)
+- [Método de Gauss-Seidel](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T3%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Sistemas%20de%20Ecuaciones%20Lineales/M%C3%A9todo%20de%20Gauss-Seidel.md)
+- [Método de Jacobi](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T3%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Sistemas%20de%20Ecuaciones%20Lineales/M%C3%A9todo%20de%20Jacobi.md)
 
+---
