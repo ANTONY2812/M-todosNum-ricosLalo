@@ -74,7 +74,17 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 - [Interpolación por Splines](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20M%C3%A9todos%20de%20Interpolaci%C3%B3n/Interpolaci%C3%B3n%20por%20Splines.md)
 
 ## 📘 Tema 5: Métodos de Ajuste de Curvas
-[📄 Interpolación Lineal.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/Interpolaci%C3%B3n%20Lineal.md)
+
+- [📄 Interpolación Lineal.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/Interpolaci%C3%B3n%20Lineal.md)
+- [📄 Interpolación Polinómica.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/Interpolaci%C3%B3n%20Polin%C3%B3mica.md)
+- [📄 Método de Correlación.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/M%C3%A9todo%20de%20Correlaci%C3%B3n.md)
+- [📄 Método de Mínimos Cuadrados.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/M%C3%A9todo%20de%20M%C3%ADnimos%20Cuadrados.md)
+- [📄 Método de Regresión.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/M%C3%A9todo%20de%20Regresi%C3%B3n.md)
+- [💻 InterpolacionLineal.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/InterpolacionLineal.java)
+- [💻 InterpolacionPolinomica.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/InterpolacionPolinomica.java)
+- [💻 MetodoDeCorrelacion.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/MetodoDeCorrelacion.java)
+- [💻 MetodoDeMinimosCuadrados.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/MetodoDeMinimosCuadrados.java)
+- [💻 MetodoDeRegresion.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/MetodoDeRegresion.java)
 ---
 
 ## 📘 Tema 6: Solución de Ecuaciones Diferenciales
