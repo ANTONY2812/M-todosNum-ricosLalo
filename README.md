@@ -29,6 +29,7 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 | T4 | Diferenciación e Integración Numérica       | [📘 Ver tema](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20Diferenciacion%20e%20Integracion%20Numerica/Diferenciacion%20e%20Integracion%20Numerica.md)   |
 | T5 | Interpolación y Ajuste de Funciones         | [📘 Ver tema](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20Interpolacion%20y%20Ajuste%20de%20Funciones/Interpolacion%20y%20Ajuste%20de%20Funciones.md)   |
 | T6 | Ecuaciones Diferenciales Ordinarias (EDO)   | [📘 Ver tema](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Ecuaciones%20Diferenciales%20Ordinarias/EDO.md)                                               |
+                                      |
 
 ---
 
