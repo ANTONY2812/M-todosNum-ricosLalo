@@ -25,5 +25,50 @@ Inicio
   Imprimir "Diferencia por equivocación: ", abs(areaCorrecta - areaConError)
 Fin
 ```
+---
+
+### 💻 Código base en Java
+
+```java
+public class CodigoBaseEquivocacion {
+    public static void main(String[] args) {
+        double areaCorrecta = Math.PI * Math.pow(5, 2);
+        double areaConError = Math.PI * Math.pow(10, 2);
+
+        System.out.println("Área correcta: " + areaCorrecta);
+        System.out.println("Área con error: " + areaConError);
+        System.out.println("Diferencia por equivocación: " + Math.abs(areaCorrecta - areaConError));
+    }
+}
+```
+
+---
+
+### 🛠 Ejemplo funcional en Java
+
+```java
+public class ErrorEquivocacion {
+    public static void main(String[] args) {
+        double radio = 5.0;
+        double areaIncorrecta = Math.PI * radio * 2;
+        double areaCorrecta = Math.PI * Math.pow(radio, 2);
+        double diferencia = Math.abs(areaCorrecta - areaIncorrecta);
+
+        System.out.printf("Área incorrecta: %.3f%n", areaIncorrecta);
+        System.out.printf("Área correcta: %.3f%n", areaCorrecta);
+        System.out.printf("Diferencia por equivocación: %.3f%n", diferencia);
+    }
+}
+```
+
+---
+
+### 📋 Caso de prueba:
+
+```text
+Área incorrecta: 31.416
+Área correcta: 78.540
+Diferencia por equivocación: 47.124
+```
 
 ### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
