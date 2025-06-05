@@ -74,7 +74,7 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 - [Interpolación por Splines](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20M%C3%A9todos%20de%20Interpolaci%C3%B3n/Interpolaci%C3%B3n%20por%20Splines.md)
 
 ## 📘 Tema 5: Métodos de Ajuste de Curvas
-- [📄 Interpolación Lineal.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20M%C3%A9todos%20Funcionales/Interpolaci%C3%B3n%20Lineal.md)
+[📄 Interpolación Lineal.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/Interpolaci%C3%B3n%20Lineal.md)
 ---
 
 ## 📘 Tema 6: Solución de Ecuaciones Diferenciales
