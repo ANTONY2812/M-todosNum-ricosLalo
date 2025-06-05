@@ -34,3 +34,5 @@ Inicio
   Imprimir "Ecuación de la recta: y = m x + b"
 Fin
 ```
+
+### 🔙 [← Regresar al repositorio principal](https://github.com/ANTONY2812/M-todosNum-ricosLalo)
