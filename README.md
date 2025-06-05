@@ -3,9 +3,10 @@
 ---
 
 ## Instituto Tecnológico Superior del Oriente del Estado de Hidalgo  
-**Ingeniería en Sistemas Computacionales** 
-Antony Eduard López Jiménez**
-MTI. Efren Rolando Romero Leon**
+**Ingeniería en Sistemas Computacionales**
+
+**Antony Eduard López Jiménez**
+**MTI. Efren Rolando Romero Leon**
 ---
 
 ##  ¿Qué son los Métodos Numéricos?
@@ -20,14 +21,13 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 
 ###  Tabla de Contenido de mi git
 
-| Nº | Tema                                        | Enlace                                                                                                                                                                                                                                                     |
-| -- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| T1 | Introducción a los Métodos Numéricos        | [📘 Ver tema](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T1%20-%20Introducción%20a%20los%20métodos%20numéricos/Introducción%20a%20los%20métodos%20númericos.md)                                                                          |
-| T2 | Solución de Ecuaciones No Lineales          | [📘 Ver tema](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T2%20-%20Métodos%20de%20Solución%20de%20Ecuaciones/Introducción%20a%20los%20Métodos%20de%20Solución%20de%20Ecuaciones.md)                                                       |
-| T3 | Solución de Sistemas de Ecuaciones Lineales | [📘 Ver tema](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T3%20-%20Métodos%20de%20Solución%20de%20Sistemas%20de%20Ecuaciones%20Lineales/Introducción%20a%20los%20Métodos%20de%20Solución%20de%20Sistemas%20de%20Ecuaciones%20Lineales.md) |
-| T4 | Diferenciación e Integración Numérica       | [📘 Ver tema](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T4%20-%20Diferenciación%20e%20Integración%20Numérica/Introducción%20a%20la%20Diferenciación%20e%20Integración%20Numérica.md)                                                    |
-| T5 | Interpolación y Ajuste de Funciones         | [📘 Ver tema](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T5%20-%20Interpolación%20y%20Ajuste%20de%20Funciones/Introducción%20a%20la%20Interpolación%20y%20Ajuste%20de%20Funciones.md)                                                    |
-| T6 | Ecuaciones Diferenciales Ordinarias (EDO)   | [📘 Ver tema](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Solución%20de%20Ecuaciones%20Diferenciales/Introducción%20a%20la%20Solución%20de%20Ecuaciones%20Diferenciales.md)                                                      |
+Nº	Tema	Enlace
+T1	Introducción a los Métodos Numéricos	📘 Ver tema
+T2	Métodos de Solución de Ecuaciones	📘 Ver tema
+T3	Métodos de Solución de Sistemas de Ecuaciones Lineales	📘 Ver tema
+T4	Diferenciación e Integración Numérica	📘 Ver tema
+T5	Interpolación y Ajuste de Funciones	📘 Ver tema
+T6	Solución de Ecuaciones Diferenciales	📘 Ver tema
 
 
 ---
