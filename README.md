@@ -68,6 +68,19 @@ Cada tema está organizado con teoría clara, pseudocódigo, ejemplos en Java y 
 ---
 ## 📘 Tema 4: Métodos de Interpolación
 
+### 📄 Documentación
+
+- [📄 Método de Simpson ⅓.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Metodos%20de%20Integracion/M%C3%A9todo%20de%20Simpson%201%E2%85%93.md)
+- [📄 Método de Simpson ⅜.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Metodos%20de%20Integracion/M%C3%A9todo%20de%20Simpson%203%E2%85%9C.md)
+- [📄 Método de la Cuadratura Gaussiana.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Metodos%20de%20Integracion/M%C3%A9todo%20de%20la%20Cuadratura%20Gaussiana.md)
+- [📄 Método del Trapecio.md](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Metodos%20de%20Integracion/M%C3%A9todo%20del%20Trapecio.md)
+
+### 💻 Implementaciones en Java
+
+- [💻 MetodoDeLaCuadraturaGaussiana.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Metodos%20de%20Integracion/MetodoDeLaCuadraturaGaussiana.java)
+- [💻 MetodoDeSimpsonTresOctavos.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Metodos%20de%20Integracion/MetodoDeSimpsonTresOctavos.java)
+- [💻 MetodoDeSimpsonUnTercio.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Metodos%20de%20Integracion/MetodoDeSimpsonUnTercio.java)
+- [💻 MetodoDelTrapecio.java](https://github.com/ANTONY2812/M-todosNum-ricosLalo/blob/main/T6%20-%20Metodos%20de%20Integracion/MetodoDelTrapecio.java)
 
 
 --
